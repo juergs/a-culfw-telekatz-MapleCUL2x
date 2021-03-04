@@ -6,6 +6,8 @@ ___
 
 >Binaries and further hardware infos for STM32F103: @ [maple_binaries](https://github.com/juergs/maple_binaries) 
 
->Code was configured and compiled with gcc-version and WSL (Ubuntu): *gcc-arm-none-eabi-6-2017-q2-update-linux*
+>Code was configured and compiled with gcc-version and WSL (Ubuntu): 
+
+>*gcc-arm-none-eabi-6-2017-q2-update-linux*
 
 
