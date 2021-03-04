@@ -1,0 +1,1329 @@
+Archive member included to satisfy reference by file (symbol)
+
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-init.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+                              ../../clib/kopp-fc.o (symbol from plugin) (strtol)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-fini.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o) (__locale_ctype_ptr_l)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcmp.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o) (strcmp)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o) (__ascii_wctomb)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__atexit.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-ctype_.o)
+                              /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o) (_ctype_)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_ceil.o)
+                              /tmp/ccJyxyI3.ltrans0.ltrans.o (ceil)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_floor.o)
+                              /tmp/ccJyxyI3.ltrans0.ltrans.o (floor)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                              /tmp/ccJyxyI3.ltrans0.ltrans.o (__aeabi_dsub)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+                              /tmp/ccJyxyI3.ltrans0.ltrans.o (__aeabi_dmul)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+                              /tmp/ccJyxyI3.ltrans0.ltrans.o (__aeabi_dcmpge)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+                              /tmp/ccJyxyI3.ltrans0.ltrans.o (__aeabi_d2iz)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+                              /tmp/ccJyxyI3.ltrans0.ltrans.o (memcmp)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcpy.o)
+                              /tmp/ccJyxyI3.ltrans10.ltrans.o (strcpy)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+                              /tmp/ccJyxyI3.ltrans8.ltrans.o (strlen)
+/mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strncpy.o)
+                              /tmp/ccJyxyI3.ltrans10.ltrans.o (strncpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+DHCP_CHADDR         0x6               ../../Wiznet/Internet/DHCP/dhcp.o (symbol from plugin)
+__lock___arc4random_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+hspi2               0x58              ../../STM32/hal_spi.o (symbol from plugin)
+output_flush_func   0x4               main.o (symbol from plugin)
+CDC_Tx_len          0x2               ../../clib/cdc_uart.o (symbol from plugin)
+CDC_Tx_buffer       0x80              ../../clib/cdc_uart.o (symbol from plugin)
+crc8                0x1               ../../clib/onewire.o (symbol from plugin)
+__lock___env_recursive_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+CDC_connected       0x3               ../../STM32/usbd/usbd_cdc_if.o (symbol from plugin)
+__lock___malloc_recursive_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+DHCP_XID            0x4               ../../Wiznet/Internet/DHCP/dhcp.o (symbol from plugin)
+DHCP_SIP            0x4               ../../Wiznet/Internet/DHCP/dhcp.o (symbol from plugin)
+LastFamilyDiscrepancy
+                    0x4               ../../clib/onewire.o (symbol from plugin)
+usbinfunc           0x4               ../../clib/serial.o (symbol from plugin)
+pDHCPMSG            0x4               ../../Wiznet/Internet/DHCP/dhcp.o (symbol from plugin)
+LastDeviceFlag      0x4               ../../clib/onewire.o (symbol from plugin)
+blkctr              0x1               ../../clib/kopp-fc.o (symbol from plugin)
+payload             0x5               ../../clib/rf_native.o (symbol from plugin)
+onewire_hmsemulationdevicecounter
+                    0x4               ../../clib/onewire.o (symbol from plugin)
+BlockStartTime      0x4               ../../clib/kopp-fc.o (symbol from plugin)
+LastDiscrepancy     0x4               ../../clib/onewire.o (symbol from plugin)
+__lock___at_quick_exit_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+DBGU_RxReady        0x1               ../../STM32/utility/dbgu.o (symbol from plugin)
+DBGU_RxByte         0x1               ../../STM32/utility/dbgu.o (symbol from plugin)
+DHCP_SOCKET         0x1               ../../Wiznet/Internet/DHCP/dhcp.o (symbol from plugin)
+__lock___sfp_recursive_mutex
+                    0x1               /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text          0x0000000000000000       0x74 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .text          0x0000000000000000        0x0 main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans12.ltrans.o
+ .rodata        0x0000000000000000        0x2 /tmp/ccJyxyI3.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans17.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccJyxyI3.ltrans17.ltrans.o
+ .text          0x0000000000000000        0x0 stm32f1xx_hal_msp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 stm32f1xx_it.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/cc1100.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/cc1101_pllcheck.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/cdc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/cdc_uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/clock.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/delay.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/display.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/fastrf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/fband.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/fht.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/fncollection.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/hw_autodetect.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/intertechno.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/kopp-fc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/multi_CC.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_asksin.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_maico.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_mbus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/mbus/mbus_packet.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/mbus/manchester.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/mbus/3outof6.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/mbus/crc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_mode.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_moritz.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_native.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/lacrosse.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_router.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive_bucket.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive_esa.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive_hms.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive_it.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive_revolt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive_tcm97001.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive_tx3.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_receive.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_router.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_rwe.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_send.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/rf_zwave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/ringbuffer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/serial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/somfy_rts.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/stringfunc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/ttydata.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/onewire.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../clib/ethernet_wiznet.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/hal_usart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/hal_spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/hal_gpio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/hal_timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/hal_twimaster.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/stdio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/usbd/usb_device.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/usbd/usbd_cdc_if.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/usbd/usbd_conf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/usbd/usbd_desc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/avr/interrupt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/avr/eeprom.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/avr/wdt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/util/parity.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/utility/dbgu.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi_ex.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o (symbol from plugin)
+ .text          0x0000000000000000       0x14 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+ .data          0x0000000000000000        0x0 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+ .bss           0x0000000000000000        0x0 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+ .text          0x0000000000000000        0x0 ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../Wiznet/Ethernet/W5100/w5100.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../Wiznet/Ethernet/W5500/w5500.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../Wiznet/Ethernet/socket.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../Wiznet/Ethernet/wizchip_conf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ../../Wiznet/Internet/DHCP/dhcp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x0000000000000000       0x24 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .text.strtol_l
+                0x0000000000000000       0x20 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xe8 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x0000000000000000       0x40 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x0000000000000000       0x1c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr
+                0x0000000000000000       0x1c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x0000000000000000       0x10 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x0000000000000000       0x24 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+ .text          0x0000000000000000      0x1bc /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000000       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000000       0x1b /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x0000000000000000       0x24 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .jcr           0x0000000000000000        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_ceil.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_ceil.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_ceil.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_floor.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_floor.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_floor.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcpy.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .text          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strncpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000005000 xrw
+FLASH            0x0000000008000000 0x0000000000020000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD main.o
+LOAD /tmp/ccJyxyI3.ltrans0.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans1.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans2.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans3.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans4.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans5.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans6.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans7.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans8.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans9.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans10.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans11.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans12.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans13.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans14.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans15.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans16.ltrans.o
+LOAD /tmp/ccJyxyI3.ltrans17.ltrans.o
+LOAD stm32f1xx_hal_msp.o
+LOAD stm32f1xx_it.o
+LOAD ../../clib/cc1100.o
+LOAD ../../clib/cc1101_pllcheck.o
+LOAD ../../clib/cdc.o
+LOAD ../../clib/cdc_uart.o
+LOAD ../../clib/clock.o
+LOAD ../../clib/delay.o
+LOAD ../../clib/display.o
+LOAD ../../clib/fastrf.o
+LOAD ../../clib/fband.o
+LOAD ../../clib/fht.o
+LOAD ../../clib/fncollection.o
+LOAD ../../clib/hw_autodetect.o
+LOAD ../../clib/intertechno.o
+LOAD ../../clib/kopp-fc.o
+LOAD ../../clib/multi_CC.o
+LOAD ../../clib/rf_asksin.o
+LOAD ../../clib/rf_maico.o
+LOAD ../../clib/rf_mbus.o
+LOAD ../../clib/mbus/mbus_packet.o
+LOAD ../../clib/mbus/manchester.o
+LOAD ../../clib/mbus/3outof6.o
+LOAD ../../clib/mbus/crc.o
+LOAD ../../clib/rf_mode.o
+LOAD ../../clib/rf_moritz.o
+LOAD ../../clib/rf_native.o
+LOAD ../../clib/lacrosse.o
+LOAD ../../clib/rf_router.o
+LOAD ../../clib/rf_receive_bucket.o
+LOAD ../../clib/rf_receive_esa.o
+LOAD ../../clib/rf_receive_hms.o
+LOAD ../../clib/rf_receive_it.o
+LOAD ../../clib/rf_receive_revolt.o
+LOAD ../../clib/rf_receive_tcm97001.o
+LOAD ../../clib/rf_receive_tx3.o
+LOAD ../../clib/rf_receive.o
+LOAD ../../clib/rf_router.o
+LOAD ../../clib/rf_rwe.o
+LOAD ../../clib/rf_send.o
+LOAD ../../clib/rf_zwave.o
+LOAD ../../clib/ringbuffer.o
+LOAD ../../clib/serial.o
+LOAD ../../clib/somfy_rts.o
+LOAD ../../clib/stringfunc.o
+LOAD ../../clib/ttydata.o
+LOAD ../../clib/onewire.o
+LOAD ../../clib/ethernet_wiznet.o
+LOAD ../../STM32/hal_usart.o
+LOAD ../../STM32/hal_spi.o
+LOAD ../../STM32/hal_gpio.o
+LOAD ../../STM32/hal_timer.o
+LOAD ../../STM32/hal_twimaster.o
+LOAD ../../STM32/stdio.o
+LOAD ../../STM32/usbd/usb_device.o
+LOAD ../../STM32/usbd/usbd_cdc_if.o
+LOAD ../../STM32/usbd/usbd_conf.o
+LOAD ../../STM32/usbd/usbd_desc.o
+LOAD ../../STM32/avr/interrupt.o
+LOAD ../../STM32/avr/eeprom.o
+LOAD ../../STM32/avr/wdt.o
+LOAD ../../STM32/util/parity.o
+LOAD ../../STM32/utility/dbgu.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi_ex.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.o
+LOAD ../../STM32/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.o
+LOAD ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+LOAD ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+LOAD ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+LOAD ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+LOAD ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+LOAD ../../STM32/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+LOAD ../../Wiznet/Ethernet/W5100/w5100.o
+LOAD ../../Wiznet/Ethernet/W5500/w5500.o
+LOAD ../../Wiznet/Ethernet/socket.o
+LOAD ../../Wiznet/Ethernet/wizchip_conf.o
+LOAD ../../Wiznet/Internet/DHCP/dhcp.o
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a
+START GROUP
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a
+END GROUP
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+LOAD /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+                0x0000000020005000                _estack = 0x20005000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x0000000008000110     0xc1e4
+                0x0000000008000110                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000110       0x6c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text          0x000000000800017c      0x9b8 /tmp/ccJyxyI3.ltrans1.ltrans.o
+                0x000000000800017c                USB_LP_CAN1_RX0_IRQHandler
+ .text          0x0000000008000b34      0xb80 /tmp/ccJyxyI3.ltrans2.ltrans.o
+                0x0000000008000b34                RfAnalyze_Task
+ .text          0x00000000080016b4      0xd00 /tmp/ccJyxyI3.ltrans3.ltrans.o
+                0x0000000008001808                analyze.lto_priv.125
+                0x0000000008001968                cksum3
+                0x00000000080019a8                getbit
+                0x00000000080019ca                getbits
+                0x0000000008001a0e                addbit
+                0x0000000008001a52                set_RF_mode
+                0x0000000008001e28                set_txreport
+                0x0000000008001e70                native_func
+                0x0000000008001ed8                restore_RF_mode
+                0x0000000008001ef8                change_RF_mode
+                0x00000000080020c0                moritz_func
+                0x000000000800213c                moritz_sendAck
+                0x00000000080021d4                crcCalc
+                0x00000000080021fe                decode3outof6
+                0x0000000008002280                encode3outof6
+                0x00000000080022d0                manchDecode
+                0x0000000008002334                packetSize
+                0x000000000800234e                rf_mbus_on.part.0.lto_priv.158
+ .text          0x00000000080023b4      0x7f0 /tmp/ccJyxyI3.ltrans4.ltrans.o
+                0x00000000080023b4                USBD_CDC_GetDeviceQualifierDescriptor
+                0x00000000080023c0                USBD_CDC_GetFSCfgDesc.lto_priv.151
+                0x00000000080023cc                USBD_CDC_GetOtherSpeedCfgDesc.lto_priv.152
+                0x00000000080023d8                USBD_CDC_GetHSCfgDesc.lto_priv.150
+                0x00000000080023e4                USBD_CDC_EP0_RxReady.lto_priv.147
+                0x000000000800241a                USBD_CDC_DataOut.lto_priv.149
+                0x000000000800245a                USBD_CDC_DataIn.lto_priv.148
+                0x0000000008002474                USBD_CDC_DeInit.lto_priv.145
+                0x00000000080024bc                USBD_CDC_Init.lto_priv.144
+                0x0000000008002570                HAL_FLASH_Program.constprop.35
+                0x00000000080025b8                HAL_TIMEx_MasterConfigSynchronization.constprop.33
+                0x00000000080025fc                HAL_TIM_Base_Init.constprop.30
+                0x0000000008002748                USBD_CtlError.constprop.19
+                0x0000000008002764                USBD_CDC_ReceivePacket.constprop.10
+                0x0000000008002794                txSendPacket.constprop.5
+                0x0000000008002994                USBD_GetString.constprop.1
+                0x00000000080029e0                USBD_CtlSendStatus
+                0x00000000080029fa                USBD_CtlSendData
+                0x0000000008002a18                USBD_CDC_Setup.lto_priv.146
+                0x0000000008002a9c                USBD_LL_DataInStage.part.1
+                0x0000000008002b28                USBD_LL_DataOutStage
+                0x0000000008002b8c                USBD_SetClassConfig
+ .text          0x0000000008002ba4      0xb78 /tmp/ccJyxyI3.ltrans5.ltrans.o
+                0x0000000008002ba4                USBD_FS_LangIDStrDescriptor
+                0x0000000008002bb0                USBD_FS_DeviceDescriptor
+                0x0000000008002bbc                CDC_DeInit_FS.lto_priv.154
+                0x0000000008002bc0                USBD_FS_InterfaceStrDescriptor
+                0x0000000008002bd4                USBD_FS_ConfigStrDescriptor
+                0x0000000008002be8                USBD_FS_ManufacturerStrDescriptor
+                0x0000000008002bfc                USBD_FS_ProductStrDescriptor
+                0x0000000008002c10                CDC_Receive_FS.lto_priv.156
+                0x0000000008002c98                CDC_Control_FS.lto_priv.155
+                0x0000000008002cd0                HAL_RCC_GetPCLK2Freq
+                0x0000000008002d00                HAL_RCC_GetPCLK1Freq
+                0x0000000008002d30                HAL_PCD_EP_SetStall
+                0x0000000008002dd0                HAL_PCD_EP_Transmit
+                0x0000000008002e10                HAL_PCD_EP_Receive
+                0x0000000008002e58                HAL_PCD_EP_Close
+                0x000000000800302c                HAL_PCD_EP_Open
+                0x000000000800334c                HAL_GPIO_Init
+                0x000000000800350c                HAL_FLASH_Lock
+                0x0000000008003520                HAL_FLASH_Unlock
+                0x0000000008003544                fputs
+                0x000000000800355c                fputc
+                0x000000000800356a                wdt_reset
+                0x000000000800357c                seek_flashdata.lto_priv.136
+                0x00000000080035bc                erase_pages.lto_priv.137
+                0x0000000008003630                reset_flash.lto_priv.138
+                0x0000000008003658                CDC_Receive_next.part.4
+                0x0000000008003688                CDC_isConnected
+                0x00000000080036ac                USBD_FS_SerialStrDescriptor
+ .text          0x000000000800371c      0xb04 /tmp/ccJyxyI3.ltrans6.ltrans.o
+                0x0000000008003748                ur_send
+                0x0000000008003788                em_send
+                0x0000000008003848                rawsend
+                0x000000000800389c                ks_send
+                0x0000000008003970                rwe_func
+                0x0000000008003986                addParityAndSendData
+                0x0000000008003a50                fs20send
+                0x0000000008003a6e                send_bit.lto_priv.115
+                0x0000000008003ab4                reset_input
+                0x0000000008003b04                CC1100_in_callback
+                0x0000000008004156                rf_receive_TimerElapsedCallback
+ .text          0x0000000008004220      0xac0 /tmp/ccJyxyI3.ltrans7.ltrans.o
+                0x0000000008004220                onewire_FullSearch
+                0x00000000080042e4                onewire_BusyWait
+                0x0000000008004304                onewire_ReadByte
+                0x000000000800432e                onewire_WriteByte
+                0x0000000008004344                onewire_WriteBit
+                0x0000000008004360                onewire_ReadBit
+                0x0000000008004372                onewire_Reset
+                0x0000000008004394                onewire_Init
+                0x00000000080043fc                fromdec8
+                0x000000000800441e                fromdec
+                0x0000000008004440                fromhex
+                0x00000000080044a4                somfy_rts_func
+                0x00000000080047a0                rb_get
+                0x00000000080047ca                analyze_ttydata
+                0x0000000008004884                UART_Tx_Callback
+                0x00000000080048c8                rb_put
+                0x00000000080048f4                zwave_ckSum_16bit
+                0x0000000008004922                zccRX
+                0x000000000800493c                zwave_doSend
+                0x0000000008004af8                zwave_func
+                0x0000000008004c1c                rf_zwave_init
+ .text          0x0000000008004ce0      0xb24 /tmp/ccJyxyI3.ltrans8.ltrans.o
+                0x0000000008004ce0                prepare_boot
+                0x0000000008004d4c                erb
+                0x0000000008004d8e                ewb
+                0x0000000008004eb4                ledfunc
+                0x0000000008004ee8                fht_lookbuf.lto_priv.116
+                0x0000000008004f28                fht80b_reset_state.lto_priv.126
+                0x0000000008004f50                fht_init
+                0x0000000008004f98                checkFrequency
+                0x0000000008004fe4                eeprom_factory_reset
+                0x0000000008005068                write_eeprom
+                0x00000000080050d6                display_hex2
+                0x00000000080050dc                display_char
+                0x0000000008005172                display_nl
+                0x0000000008005182                fht_display_buf.part.0
+                0x00000000080051b8                FastRF_Task.part.1
+                0x0000000008005238                display_string_P
+                0x000000000800524a                version
+                0x000000000800528c                fhtsend
+                0x00000000080054f0                display_string
+                0x0000000008005502                display_udec
+                0x000000000800555a                read_eeprom
+                0x00000000080055e4                my_delay_us
+                0x000000000800561c                send_IT_bit_V3.lto_priv.130
+                0x0000000008005700                my_delay_ms
+                0x0000000008005716                fht80b_sendpacket.lto_priv.159
+                0x000000000800575c                fht80b_send_repeated.lto_priv.127
+                0x0000000008005784                fastrf_func
+ .text          0x0000000008005804      0x64c /tmp/ccJyxyI3.ltrans9.ltrans.o
+                0x0000000008005804                HAL_NVIC_SetPriority.constprop.112
+                0x0000000008005864                HAL_InitTick.constprop.109
+                0x00000000080058a8                HAL_RCC_OscConfig.constprop.105
+                0x0000000008005c8c                SWO_PrintChar.constprop.102
+                0x0000000008005cc0                CDCDSerialDriver_Write.constprop.99
+                0x0000000008005d3c                display_hex.constprop.98
+                0x0000000008005d8c                SPI_WaitOnFlagUntilTimeout.constprop.97
+                0x0000000008005e04                HAL_IWDG_Refresh.part.1.constprop.95
+ .text          0x0000000008005e50      0xbe8 /tmp/ccJyxyI3.ltrans10.ltrans.o
+                0x0000000008006028                kopp_fc_func
+                0x00000000080063b4                rf_mbus_init
+                0x000000000800650c                halRfWriteFifo
+                0x000000000800654c                halRfReadFifo.lto_priv.157
+                0x00000000080065b4                rf_maico_init
+                0x000000000800664c                multiCC_prefix
+                0x000000000800666c                rf_mbus_func
+                0x0000000008006720                maico_func
+                0x0000000008006884                asksin_func
+                0x00000000080069ec                multiCC_func
+ .text          0x0000000008006a38      0x75c /tmp/ccJyxyI3.ltrans11.ltrans.o
+                0x0000000008006a38                CDC_Init_FS.lto_priv.153
+                0x0000000008006b62                vsnprintf
+                0x0000000008006c68                vsprintf
+                0x0000000008006c72                sprintf
+                0x0000000008006c8c                snprintf
+                0x0000000008006ca6                i2c_Read
+                0x0000000008006d1c                i2c_write
+                0x0000000008006d8c                i2c_stop
+                0x0000000008006dac                i2c_start
+                0x0000000008006dd8                HAL_timer_reset_counter_value
+                0x0000000008006e00                HAL_timer_set_reload_register
+                0x0000000008006e24                hal_enable_CC_timer_int
+                0x0000000008006e6c                hal_enable_CC_GDOin_int.part.3
+                0x0000000008006f7c                hal_CC_GDO_init.part.2
+                0x000000000800703c                hal_GPIO_EXTI_IRQHandler
+                0x000000000800708c                hal_CC_Pin_Get
+                0x00000000080070b8                hal_CC_Pin_Set
+                0x00000000080070e8                puts
+                0x00000000080070f8                vfprintf
+                0x000000000800714c                fprintf
+                0x0000000008007166                vprintf
+                0x0000000008007178                _printf
+ .text          0x0000000008007194      0x434 /tmp/ccJyxyI3.ltrans12.ltrans.o
+                0x00000000080074ec                it_func
+ .text          0x00000000080075c8      0x734 /tmp/ccJyxyI3.ltrans13.ltrans.o
+                0x00000000080075c8                SystemInit
+                0x0000000008007614                USB_ReadPMA
+                0x0000000008007636                USB_WritePMA
+                0x0000000008007658                USB_EPStartXfer
+                0x0000000008007800                UART_SetConfig
+                0x000000000800793c                HAL_UART_IRQHandler
+                0x0000000008007b80                HAL_UART_Transmit_IT
+                0x0000000008007bd4                HAL_TIM_IRQHandler
+ .text          0x0000000008007cfc      0x78c /tmp/ccJyxyI3.ltrans14.ltrans.o
+                0x0000000008007cfc                hal_enable_CC_GDOin_int
+                0x0000000008007d06                hal_CC_GDO_init
+                0x0000000008007d10                spi_send
+                0x0000000008007f7c                ds2482SendCmdArg
+                0x0000000008007fe4                ds2482SendCmd
+                0x000000000800804a                onewire_func
+                0x0000000008008350                onewire_Search
+                0x0000000008008468                onewire_SearchReset
+ .text          0x0000000008008488      0x66c /tmp/ccJyxyI3.ltrans15.ltrans.o
+                0x0000000008008488                sendraw.constprop.88
+                0x0000000008008580                fht_getbuf.constprop.86
+                0x00000000080085b0                wave_equals.constprop.83
+                0x00000000080085ec                copyData.constprop.73
+                0x000000000800863c                i2cMasterReceive.constprop.66
+                0x000000000800869e                i2cMasterSend.constprop.65
+                0x000000000800870c                wdt_enable.constprop.59
+                0x000000000800878c                HAL_UART_Receive_IT.constprop.57
+                0x00000000080087ee                HAL_UART_Init.constprop.56
+                0x0000000008008958                HAL_SPI_Init.constprop.38
+                0x0000000008008a64                FLASH_WaitForLastOperation.constprop.37
+ .text          0x0000000008008af4      0x4c4 /tmp/ccJyxyI3.ltrans16.ltrans.o
+                0x0000000008008af4                gettime
+                0x0000000008008b28                cdc_uart_func
+                0x0000000008008bf0                CDC_Task
+                0x0000000008008c58                ccStrobe
+                0x0000000008008c84                ccRX
+                0x0000000008008cb8                ccTX
+                0x0000000008008cf0                cc_set_pa
+                0x0000000008008d30                cc1100_sendbyte
+                0x0000000008008d34                cc1100_writeReg
+                0x0000000008008d68                cc1100_readReg
+                0x0000000008008d9c                ccreg
+                0x0000000008008e6c                ccInitChip
+                0x0000000008008f30                ccsetpa
+                0x0000000008008f54                USART3_IRQHandler
+                0x0000000008008f60                USART2_IRQHandler
+                0x0000000008008f6c                USART1_IRQHandler
+                0x0000000008008f78                EXTI15_10_IRQHandler
+                0x0000000008008f7c                EXTI9_5_IRQHandler
+                0x0000000008008f80                EXTI4_IRQHandler
+                0x0000000008008f84                EXTI0_IRQHandler
+                0x0000000008008f88                TIM4_IRQHandler
+                0x0000000008008f94                TIM3_IRQHandler
+                0x0000000008008fa0                TIM2_IRQHandler
+                0x0000000008008fac                TIM1_UP_IRQHandler
+ .text          0x0000000008008fb8      0x1a0 /tmp/ccJyxyI3.ltrans17.ltrans.o
+                0x0000000008008fb8                SysTick_Handler
+                0x0000000008008fc8                PendSV_Handler
+                0x0000000008008fca                DebugMon_Handler
+                0x0000000008008fcc                SVC_Handler
+                0x0000000008008fce                UsageFault_Handler
+                0x0000000008008fd0                BusFault_Handler
+                0x0000000008008fd2                MemManage_Handler
+                0x0000000008008fd2                Error_Handler
+                0x0000000008008fd4                HardFault_Handler
+                0x0000000008009154                NMI_Handler
+ .text          0x0000000008009158      0x370 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                0x0000000008009158                __aeabi_drsub
+                0x0000000008009160                __aeabi_dsub
+                0x0000000008009160                __subdf3
+                0x0000000008009164                __adddf3
+                0x0000000008009164                __aeabi_dadd
+                0x00000000080093dc                __aeabi_ui2d
+                0x00000000080093dc                __floatunsidf
+                0x00000000080093fc                __floatsidf
+                0x00000000080093fc                __aeabi_i2d
+                0x0000000008009420                __extendsfdf2
+                0x0000000008009420                __aeabi_f2d
+                0x000000000800945c                __aeabi_ul2d
+                0x000000000800945c                __floatundidf
+                0x000000000800946c                __floatdidf
+                0x000000000800946c                __aeabi_l2d
+ .text          0x00000000080094c8      0x424 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+                0x00000000080094c8                __aeabi_dmul
+                0x00000000080094c8                __muldf3
+                0x000000000800971c                __aeabi_ddiv
+                0x000000000800971c                __divdf3
+ .text          0x00000000080098ec      0x110 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+                0x00000000080098ec                __gtdf2
+                0x00000000080098ec                __gedf2
+                0x00000000080098f4                __ltdf2
+                0x00000000080098f4                __ledf2
+                0x00000000080098fc                __cmpdf2
+                0x00000000080098fc                __eqdf2
+                0x00000000080098fc                __nedf2
+                0x0000000008009978                __aeabi_cdrcmple
+                0x0000000008009988                __aeabi_cdcmple
+                0x0000000008009988                __aeabi_cdcmpeq
+                0x0000000008009998                __aeabi_dcmpeq
+                0x00000000080099ac                __aeabi_dcmplt
+                0x00000000080099c0                __aeabi_dcmple
+                0x00000000080099d4                __aeabi_dcmpge
+                0x00000000080099e8                __aeabi_dcmpgt
+ .text          0x00000000080099fc       0x50 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+                0x00000000080099fc                __fixdfsi
+                0x00000000080099fc                __aeabi_d2iz
+ *(.text*)
+ *fill*         0x0000000008009a4c        0x4 
+ .text.startup  0x0000000008009a50     0x1e98 /tmp/ccJyxyI3.ltrans0.ltrans.o
+                0x0000000008009a50                main
+ .text.unlikely
+                0x000000000800b8e8      0x1e4 /tmp/ccJyxyI3.ltrans9.ltrans.o
+                0x000000000800b8e8                HAL_RCC_ClockConfig.constprop.107
+ .text.Reset_Handler
+                0x000000000800bacc       0x48 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+                0x000000000800bacc                Reset_Handler
+ .text.Default_Handler
+                0x000000000800bb14        0x2 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+                0x000000000800bb14                RTC_Alarm_IRQHandler
+                0x000000000800bb14                EXTI2_IRQHandler
+                0x000000000800bb14                TIM1_CC_IRQHandler
+                0x000000000800bb14                PVD_IRQHandler
+                0x000000000800bb14                EXTI3_IRQHandler
+                0x000000000800bb14                I2C2_EV_IRQHandler
+                0x000000000800bb14                ADC1_2_IRQHandler
+                0x000000000800bb14                SPI1_IRQHandler
+                0x000000000800bb14                TAMPER_IRQHandler
+                0x000000000800bb14                DMA1_Channel4_IRQHandler
+                0x000000000800bb14                RTC_IRQHandler
+                0x000000000800bb14                DMA1_Channel7_IRQHandler
+                0x000000000800bb14                CAN1_RX1_IRQHandler
+                0x000000000800bb14                I2C1_EV_IRQHandler
+                0x000000000800bb14                DMA1_Channel6_IRQHandler
+                0x000000000800bb14                RCC_IRQHandler
+                0x000000000800bb14                TIM1_TRG_COM_IRQHandler
+                0x000000000800bb14                DMA1_Channel1_IRQHandler
+                0x000000000800bb14                Default_Handler
+                0x000000000800bb14                SPI2_IRQHandler
+                0x000000000800bb14                DMA1_Channel5_IRQHandler
+                0x000000000800bb14                USB_HP_CAN1_TX_IRQHandler
+                0x000000000800bb14                DMA1_Channel3_IRQHandler
+                0x000000000800bb14                WWDG_IRQHandler
+                0x000000000800bb14                TIM1_BRK_IRQHandler
+                0x000000000800bb14                EXTI1_IRQHandler
+                0x000000000800bb14                I2C2_ER_IRQHandler
+                0x000000000800bb14                DMA1_Channel2_IRQHandler
+                0x000000000800bb14                CAN1_SCE_IRQHandler
+                0x000000000800bb14                FLASH_IRQHandler
+                0x000000000800bb14                I2C1_ER_IRQHandler
+                0x000000000800bb14                USBWakeUp_IRQHandler
+ *fill*         0x000000000800bb16        0x2 
+ .text.__libc_init_array
+                0x000000000800bb18       0x50 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-init.o)
+                0x000000000800bb18                __libc_init_array
+ .text.memset   0x000000000800bb68       0x9c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+                0x000000000800bb68                memset
+ .text._strtol_l.isra.0
+                0x000000000800bc04      0x128 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .text.strtol   0x000000000800bd2c       0x2c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+                0x000000000800bd2c                strtol
+ .text.startup.register_fini
+                0x000000000800bd58       0x14 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x000000000800bd6c        0xc /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o)
+                0x000000000800bd6c                atexit
+ .text.__libc_fini_array
+                0x000000000800bd78       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-fini.o)
+                0x000000000800bd78                __libc_fini_array
+ .text.__locale_ctype_ptr_l
+                0x000000000800bdac        0x8 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+                0x000000000800bdac                __locale_ctype_ptr_l
+ .text.__retarget_lock_acquire_recursive
+                0x000000000800bdb4        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                0x000000000800bdb4                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x000000000800bdb8        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                0x000000000800bdb8                __retarget_lock_release_recursive
+ .text.__ascii_mbtowc
+                0x000000000800bdbc       0x2c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+                0x000000000800bdbc                __ascii_mbtowc
+ .text.__ascii_wctomb
+                0x000000000800bde8       0x18 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+                0x000000000800bde8                __ascii_wctomb
+ .text.__register_exitproc
+                0x000000000800be00       0xc4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__atexit.o)
+                0x000000000800be00                __register_exitproc
+ *fill*         0x000000000800bec4        0x4 
+ .text.ceil     0x000000000800bec8      0x120 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_ceil.o)
+                0x000000000800bec8                ceil
+ .text.floor    0x000000000800bfe8      0x118 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_floor.o)
+                0x000000000800bfe8                floor
+ .text.memcmp   0x000000000800c100       0x60 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+                0x000000000800c100                memcmp
+ .text.strcpy   0x000000000800c160       0xbc /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcpy.o)
+                0x000000000800c160                strcpy
+ .text.strlen   0x000000000800c21c       0x5c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+                0x000000000800c21c                strlen
+ .text.strncpy  0x000000000800c278       0x64 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strncpy.o)
+                0x000000000800c278                strncpy
+ *(.glue_7)
+ .glue_7        0x000000000800c2dc        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000800c2dc        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x000000000800c2dc        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x000000000800c2dc        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x000000000800c2dc                _init
+ .init          0x000000000800c2e0        0x8 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x000000000800c2e8        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x000000000800c2e8                _fini
+ .fini          0x000000000800c2ec        0x8 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+                0x000000000800c2f4                . = ALIGN (0x4)
+                0x000000000800c2f4                _etext = .
+
+.vfp11_veneer   0x000000000800c2f4        0x0
+ .vfp11_veneer  0x000000000800c2f4        0x0 linker stubs
+
+.v4_bx          0x000000000800c2f4        0x0
+ .v4_bx         0x000000000800c2f4        0x0 linker stubs
+
+.iplt           0x000000000800c2f4        0x0
+ .iplt          0x000000000800c2f4        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x000000000800c2f4      0xec4
+                0x000000000800c2f4                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x000000000800c2f4        0xe /tmp/ccJyxyI3.ltrans2.ltrans.o
+ .rodata        0x000000000800c302      0x1dc /tmp/ccJyxyI3.ltrans3.ltrans.o
+ .rodata        0x000000000800c4de       0x10 /tmp/ccJyxyI3.ltrans4.ltrans.o
+ .rodata        0x000000000800c4ee        0x8 /tmp/ccJyxyI3.ltrans5.ltrans.o
+ *fill*         0x000000000800c4f6        0x2 
+ .rodata        0x000000000800c4f8      0x18e /tmp/ccJyxyI3.ltrans7.ltrans.o
+                0x000000000800c4f8                fntab
+ .rodata        0x000000000800c686       0x52 /tmp/ccJyxyI3.ltrans8.ltrans.o
+ .rodata        0x000000000800c6d8       0x20 /tmp/ccJyxyI3.ltrans9.ltrans.o
+ .rodata        0x000000000800c6f8      0x1d4 /tmp/ccJyxyI3.ltrans10.ltrans.o
+ .rodata        0x000000000800c8cc       0x40 /tmp/ccJyxyI3.ltrans11.ltrans.o
+                0x000000000800c8cc                CCtransceiver
+ .rodata        0x000000000800c90c      0x100 /tmp/ccJyxyI3.ltrans14.ltrans.o
+ .rodata        0x000000000800ca0c       0x50 /tmp/ccJyxyI3.ltrans16.ltrans.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x000000000800ca5c      0x126 /tmp/ccJyxyI3.ltrans0.ltrans.o
+                                        0x12c (size before relaxing)
+ .rodata.str1.1
+                0x000000000800cb82       0x43 /tmp/ccJyxyI3.ltrans3.ltrans.o
+ .rodata.str1.1
+                0x000000000800cbc5       0x31 /tmp/ccJyxyI3.ltrans5.ltrans.o
+ .rodata.str1.1
+                0x000000000800cbf6        0x7 /tmp/ccJyxyI3.ltrans6.ltrans.o
+ .rodata.str1.1
+                0x000000000800cbfd       0x1c /tmp/ccJyxyI3.ltrans7.ltrans.o
+ .rodata.str1.1
+                0x000000000800cc19       0x79 /tmp/ccJyxyI3.ltrans8.ltrans.o
+                                         0x84 (size before relaxing)
+ .rodata.str1.1
+                0x000000000800cc92      0x267 /tmp/ccJyxyI3.ltrans10.ltrans.o
+                                        0x286 (size before relaxing)
+ .rodata.str1.1
+                0x000000000800cef9       0x24 /tmp/ccJyxyI3.ltrans11.ltrans.o
+ .rodata.str1.1
+                0x000000000800cf1d        0x7 /tmp/ccJyxyI3.ltrans15.ltrans.o
+ .rodata.str1.1
+                0x000000000800cf1d        0x8 /tmp/ccJyxyI3.ltrans16.ltrans.o
+ *fill*         0x000000000800cf1d        0x3 
+ .rodata.str1.4
+                0x000000000800cf20      0x180 /tmp/ccJyxyI3.ltrans17.ltrans.o
+                                        0x17e (size before relaxing)
+ .rodata._global_impure_ptr
+                0x000000000800d0a0        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                0x000000000800d0a0                _global_impure_ptr
+ .rodata._setlocale_r.str1.4
+                0x000000000800d0a4        0xa /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+                                          0xd (size before relaxing)
+ *fill*         0x000000000800d0ae        0x2 
+ .rodata.str1.4
+                0x000000000800d0b0        0x2 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ *fill*         0x000000000800d0b2        0x2 
+ .rodata._ctype_
+                0x000000000800d0b4      0x101 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-ctype_.o)
+                0x000000000800d0b4                _ctype_
+                0x000000000800d1b8                . = ALIGN (0x4)
+ *fill*         0x000000000800d1b5        0x3 
+
+.rel.dyn        0x000000000800d1b8        0x0
+ .rel.iplt      0x000000000800d1b8        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000000000800d1b8        0x0
+                0x000000000800d1b8                __exidx_start = .
+ *(.ARM.exidx*)
+                0x000000000800d1b8                __exidx_end = .
+
+.preinit_array  0x000000000800d1b8        0x0
+                0x000000000800d1b8                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x000000000800d1b8                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x000000000800d1b8        0x8
+                0x000000000800d1b8                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x000000000800d1b8        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x000000000800d1bc        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x000000000800d1c0                PROVIDE (__init_array_end, .)
+
+.fini_array     0x000000000800d1c0        0x4
+                0x000000000800d1c0                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x000000000800d1c0        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x000000000800d1c4                PROVIDE (__fini_array_end, .)
+                0x000000000800d1c4                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x728 load address 0x000000000800d1c4
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000       0x64 /tmp/ccJyxyI3.ltrans0.ltrans.o
+ .data          0x0000000020000064        0x3 /tmp/ccJyxyI3.ltrans3.ltrans.o
+                0x0000000020000064                it_frequency
+ *fill*         0x0000000020000067        0x1 
+ .data          0x0000000020000068       0xdb /tmp/ccJyxyI3.ltrans4.ltrans.o
+ *fill*         0x0000000020000143        0x1 
+ .data          0x0000000020000144       0x16 /tmp/ccJyxyI3.ltrans5.ltrans.o
+ .data          0x000000002000015a        0x6 /tmp/ccJyxyI3.ltrans7.ltrans.o
+ .data          0x0000000020000160        0x1 /tmp/ccJyxyI3.ltrans8.ltrans.o
+                0x0000000020000160                led_mode
+ *fill*         0x0000000020000161        0x3 
+ .data          0x0000000020000164        0x4 /tmp/ccJyxyI3.ltrans9.ltrans.o
+                0x0000000020000164                SystemCoreClock
+ .data          0x0000000020000168       0x1f /tmp/ccJyxyI3.ltrans10.ltrans.o
+ *fill*         0x0000000020000187        0x1 
+ .data          0x0000000020000188        0x3 /tmp/ccJyxyI3.ltrans12.ltrans.o
+ *(.data*)
+ *fill*         0x000000002000018b        0x1 
+ .data._impure_ptr
+                0x000000002000018c        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                0x000000002000018c                _impure_ptr
+ .data.impure_data
+                0x0000000020000190      0x428 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x00000000200005b8        0x4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+                0x00000000200005b8                __atexit_recursive_mutex
+ .data.__global_locale
+                0x00000000200005bc      0x16c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+                0x00000000200005bc                __global_locale
+                0x0000000020000728                . = ALIGN (0x4)
+                0x0000000020000728                _edata = .
+
+.jcr            0x0000000020000728        0x0 load address 0x000000000800d8ec
+ .jcr           0x0000000020000728        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.igot.plt       0x0000000020000728        0x0 load address 0x000000000800d8ec
+ .igot.plt      0x0000000020000728        0x0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x0000000020000728                . = ALIGN (0x4)
+
+.bss            0x0000000020000728     0x2018 load address 0x000000000800d8ec
+                0x0000000020000728                _sbss = .
+                0x0000000020000728                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000728       0x1c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .bss           0x0000000020000744      0x110 /tmp/ccJyxyI3.ltrans0.ltrans.o
+ .bss           0x0000000020000854      0x421 /tmp/ccJyxyI3.ltrans1.ltrans.o
+                0x0000000020000854                hpcd_USB_FS
+ *fill*         0x0000000020000c75        0x3 
+ .bss           0x0000000020000c78       0xf0 /tmp/ccJyxyI3.ltrans2.ltrans.o
+                0x0000000020000c79                nibble.lto_priv.128
+                0x0000000020000cb4                fht80b_repeatcnt.lto_priv.134
+                0x0000000020000cb5                fht_hc0
+                0x0000000020000cb6                fht_hc1
+                0x0000000020000cb7                fht80b_state
+                0x0000000020000cb8                fht80b_ldata.lto_priv.135
+                0x0000000020000cb9                fht80b_minute
+                0x0000000020000cba                fht80b_buf.lto_priv.133
+ .bss           0x0000000020000d68       0x24 /tmp/ccJyxyI3.ltrans3.ltrans.o
+                0x0000000020000d68                asksin_update_mode.lto_priv.129
+                0x0000000020000d70                autoAckAddr.lto_priv.139
+                0x0000000020000d73                fakeWallThermostatAddr.lto_priv.140
+                0x0000000020000d78                RXinfo
+ .bss           0x0000000020000d8c      0x695 /tmp/ccJyxyI3.ltrans4.ltrans.o
+                0x0000000020000ea4                MBbytes
+                0x00000000200010ec                MBpacket
+                0x000000002000120f                radio_mode
+                0x0000000020001210                mbus_mode
+                0x0000000020001214                TXinfo
+                0x0000000020001220                USBD_StrDesc
+ *fill*         0x0000000020001421        0x1 
+ .bss           0x0000000020001422       0x46 /tmp/ccJyxyI3.ltrans5.ltrans.o
+                0x0000000020001425                startpage.lto_priv.131
+                0x0000000020001426                nbytes.lto_priv.132
+                0x0000000020001428                UserRxBufferFS
+ .bss           0x0000000020001468      0x139 /tmp/ccJyxyI3.ltrans6.ltrans.o
+                0x000000002000146c                maxLevel.lto_priv.122
+                0x000000002000146e                bucket_array.lto_priv.120
+                0x0000000020001597                packetCheckValues
+                0x0000000020001598                fastrf_on
+                0x000000002000159a                hightime.lto_priv.118
+                0x000000002000159e                lowtime.lto_priv.117
+                0x00000000200015a0                bucket_nrused.lto_priv.119
+ *fill*         0x00000000200015a1        0x3 
+ .bss           0x00000000200015a4      0x578 /tmp/ccJyxyI3.ltrans7.ltrans.o
+                0x00000000200015a4                display_channel
+                0x00000000200017a8                TTY_Tx_Buffer
+                0x00000000200019af                zwave_drate
+                0x00000000200019b4                zwave_sStamp
+                0x00000000200019bc                zwave_ackState
+                0x00000000200019be                zwave_on
+                0x00000000200019c0                zwave_sMsg
+                0x0000000020001b10                zwave_sLen
+                0x0000000020001b12                zwave_hcid
+ .bss           0x0000000020001b1c       0x11 /tmp/ccJyxyI3.ltrans8.ltrans.o
+                0x0000000020001b1c                fht8v_buf
+                0x0000000020001b2c                fht8v_ctsync
+ *fill*         0x0000000020001b2d        0x3 
+ .bss           0x0000000020001b30      0x290 /tmp/ccJyxyI3.ltrans9.ltrans.o
+                0x0000000020001b30                uwTick.lto_priv.114
+                0x0000000020001b34                hUsbDeviceFS
+                0x0000000020001d58                hspi1
+                0x0000000020001db0                hiwdg
+ .bss           0x0000000020001dc0        0xb /tmp/ccJyxyI3.ltrans10.ltrans.o
+                0x0000000020001dc8                kopp_fc_tx_on
+                0x0000000020001dc9                kopp_fc_rx_on
+                0x0000000020001dca                kopp_fc_debug_lvl
+ *fill*         0x0000000020001dcb        0x1 
+ .bss           0x0000000020001dcc       0xb5 /tmp/ccJyxyI3.ltrans11.ltrans.o
+                0x0000000020001dcc                htim2
+                0x0000000020001e08                htim3
+                0x0000000020001e44                htim4
+                0x0000000020001e80                i2cPort
+ *fill*         0x0000000020001e81        0x3 
+ .bss           0x0000000020001e84      0x6e5 /tmp/ccJyxyI3.ltrans13.ltrans.o
+                0x0000000020001e84                inbyte1.lto_priv.143
+                0x0000000020001e86                TTY_Rx_Buffer
+                0x000000002000208c                huart1
+                0x00000000200020cc                inbyte2.lto_priv.142
+                0x00000000200020ce                UART_Rx_Buffer
+                0x00000000200024dc                huart2
+                0x000000002000251c                inbyte3.lto_priv.141
+                0x0000000020002520                huart3
+                0x0000000020002560                ticks
+                0x0000000020002564                clock_hsec
+                0x0000000020002566                fht8v_timeout
+                0x0000000020002568                fht80b_timeout
+ *fill*         0x0000000020002569        0x3 
+ .bss           0x000000002000256c       0x84 /tmp/ccJyxyI3.ltrans14.ltrans.o
+                0x000000002000256c                ROM_CODES
+                0x00000000200025bc                onewire_connecteddevices
+                0x00000000200025c0                onewire_allconversionsrunning
+                0x00000000200025c4                onewire_allconversiontimer
+                0x00000000200025c8                onewire_hmsemulationstate
+                0x00000000200025cc                onewire_hmsemulationtimer
+                0x00000000200025d0                onewire_hmsemulationinterval
+                0x00000000200025d4                onewire_hmsemulation
+                0x00000000200025d8                onewire_conversionrunning
+                0x00000000200025ec                DeviceCounter
+ .bss           0x00000000200025f0       0x68 /tmp/ccJyxyI3.ltrans15.ltrans.o
+                0x00000000200025f0                credit_10ms
+                0x00000000200025f2                CC1101
+                0x00000000200025fb                fht80b_out.lto_priv.123
+                0x0000000020002601                fht80b_bufoff.lto_priv.124
+                0x0000000020002602                obuf.lto_priv.121
+                0x0000000020002638                pFlash
+ .bss           0x0000000020002658       0xc4 /tmp/ccJyxyI3.ltrans16.ltrans.o
+                0x000000002000265c                input_handle_func
+                0x00000000200026e0                htim1
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x000000002000271c       0x21 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                0x000000002000271c                __lock___atexit_recursive_mutex
+                0x0000000020002720                __lock___arc4random_mutex
+                0x0000000020002724                __lock___env_recursive_mutex
+                0x0000000020002728                __lock___sinit_recursive_mutex
+                0x000000002000272c                __lock___malloc_recursive_mutex
+                0x0000000020002730                __lock___at_quick_exit_mutex
+                0x0000000020002734                __lock___dd_hash_mutex
+                0x0000000020002738                __lock___tz_mutex
+                0x000000002000273c                __lock___sfp_recursive_mutex
+                0x0000000020002740                . = ALIGN (0x4)
+ *fill*         0x000000002000273d        0x3 
+                0x0000000020002740                _ebss = .
+                0x0000000020002740                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020002740      0x600 load address 0x000000000800d8ec
+                0x0000000020002740                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end, .)
+                [!provide]                        PROVIDE (_end, .)
+                0x0000000020002940                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020002740      0x200 
+                0x0000000020002d40                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020002940      0x400 
+                0x0000000020002d40                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x31 /tmp/ccJyxyI3.ltrans0.ltrans.o
+ .ARM.attributes
+                0x000000000000007b       0x31 /tmp/ccJyxyI3.ltrans1.ltrans.o
+ .ARM.attributes
+                0x00000000000000ac       0x31 /tmp/ccJyxyI3.ltrans2.ltrans.o
+ .ARM.attributes
+                0x00000000000000dd       0x31 /tmp/ccJyxyI3.ltrans3.ltrans.o
+ .ARM.attributes
+                0x000000000000010e       0x31 /tmp/ccJyxyI3.ltrans4.ltrans.o
+ .ARM.attributes
+                0x000000000000013f       0x31 /tmp/ccJyxyI3.ltrans5.ltrans.o
+ .ARM.attributes
+                0x0000000000000170       0x31 /tmp/ccJyxyI3.ltrans6.ltrans.o
+ .ARM.attributes
+                0x00000000000001a1       0x31 /tmp/ccJyxyI3.ltrans7.ltrans.o
+ .ARM.attributes
+                0x00000000000001d2       0x31 /tmp/ccJyxyI3.ltrans8.ltrans.o
+ .ARM.attributes
+                0x0000000000000203       0x31 /tmp/ccJyxyI3.ltrans9.ltrans.o
+ .ARM.attributes
+                0x0000000000000234       0x31 /tmp/ccJyxyI3.ltrans10.ltrans.o
+ .ARM.attributes
+                0x0000000000000265       0x31 /tmp/ccJyxyI3.ltrans11.ltrans.o
+ .ARM.attributes
+                0x0000000000000296       0x31 /tmp/ccJyxyI3.ltrans12.ltrans.o
+ .ARM.attributes
+                0x00000000000002c7       0x31 /tmp/ccJyxyI3.ltrans13.ltrans.o
+ .ARM.attributes
+                0x00000000000002f8       0x31 /tmp/ccJyxyI3.ltrans14.ltrans.o
+ .ARM.attributes
+                0x0000000000000329       0x31 /tmp/ccJyxyI3.ltrans15.ltrans.o
+ .ARM.attributes
+                0x000000000000035a       0x31 /tmp/ccJyxyI3.ltrans16.ltrans.o
+ .ARM.attributes
+                0x000000000000038b       0x31 /tmp/ccJyxyI3.ltrans17.ltrans.o
+ .ARM.attributes
+                0x00000000000003bc       0x21 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+ .ARM.attributes
+                0x00000000000003dd       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000040a       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000437       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000464       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x0000000000000491       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000004be       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000004eb       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000518       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000000000000545       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000572       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x000000000000059f       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000000000005cc       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000005f9       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000626       0x1d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .ARM.attributes
+                0x0000000000000643       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_ceil.o)
+ .ARM.attributes
+                0x0000000000000670       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x000000000000069d       0x1d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000006ba       0x1d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000006d7       0x1d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000000006f4       0x1d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000711       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000000000000073e       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x000000000000076b       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x0000000000000798       0x2d /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strncpy.o)
+OUTPUT(MapleCULx2.elf elf32-littlearm)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f /tmp/ccJyxyI3.ltrans0.ltrans.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans1.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans2.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans3.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans4.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans5.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans6.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans7.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans8.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans9.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans10.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans11.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans12.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans13.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans14.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans15.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans16.ltrans.o
+ .comment       0x000000000000007f       0x80 /tmp/ccJyxyI3.ltrans17.ltrans.o
+
+.debug_line     0x0000000000000000       0xb5
+ .debug_line    0x0000000000000000       0xb5 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+
+.debug_info     0x0000000000000000       0xde
+ .debug_info    0x0000000000000000       0xde ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+
+.debug_abbrev   0x0000000000000000       0x12
+ .debug_abbrev  0x0000000000000000       0x12 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+
+.debug_aranges  0x0000000000000000       0x28
+ .debug_aranges
+                0x0000000000000000       0x28 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+
+.debug_ranges   0x0000000000000000       0x20
+ .debug_ranges  0x0000000000000000       0x20 ../../STM32/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.o
+
+.debug_frame    0x0000000000000000      0x680
+ .debug_frame   0x0000000000000000       0x2c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x000000000000002c       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000060       0x9c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strtol.o)
+ .debug_frame   0x00000000000000fc       0x5c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000158       0x20 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000178       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000000001ac       0x6c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000000000000218       0xb0 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000000002c8       0x4c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x0000000000000314       0x3c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x0000000000000350       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000384       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_ceil.o)
+ .debug_frame   0x00000000000003b8       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libm.a(lib_a-s_floor.o)
+ .debug_frame   0x00000000000003ec       0xac /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000498       0x50 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000000004e8       0xc4 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000000005ac       0x24 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000000005d0       0x3c /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x000000000000060c       0x20 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x000000000000062c       0x20 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x000000000000064c       0x34 /mnt/d/Work_Fhem/gcc-arm-none-eabi-6-2017-q2-update-linux/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strncpy.o)
